@@ -1,1 +1,11 @@
-<div style="background: linear-gradient(top to bottom, rgb(20, 22, 37), rgb(2, 0, 92)); height: 100vh; width: 100vw;"></div>
+<div>
+
+  <h1>Hello, my name's Mateus</h1>
+  
+  <div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+
+</div>
