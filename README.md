@@ -23,7 +23,7 @@
   <h1>Contact</h1>
   
   <a href="https://www.instagram.com/krinskimateus/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" heigth="55px" width="55px"/></a>
-  <a href="mateus.krinski10@gmail.com"><img src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" heigth="55px" width="55px"/></a>
+  <a href=mailto:<gmail>mateus.krinski10@gmail.com?subject="link HTML"><img src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" heigth="55px" width="55px"/></a>
   <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5542999698114" target="_blank"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" heigth="55px" width="55px"/></a>
   
   <div>     
