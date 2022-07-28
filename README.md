@@ -1,6 +1,6 @@
 <div>
 
-  <h1 style="text-align: center;">Hello, my name's Mateus</h1>
+  <h1 style="color: blue;">Hello, my name's Mateus</h1>
   
   <div align="center">
     <a href="https://github.com/MateusFKrinski">
