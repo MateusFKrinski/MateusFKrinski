@@ -26,6 +26,6 @@
   <a href="mailto:mateus.krinski10@gmail.com" subject="link HTML"><img src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" heigth="55px" width="55px"/></a>
   <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5542999698114" target="_blank"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" heigth="55px" width="55px"/></a>
   
-  <div>     
+  <div>  
 
 </div>
