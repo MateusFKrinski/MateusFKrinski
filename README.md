@@ -8,6 +8,10 @@
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFKrinski&layout=compact&langs_count=7&theme=white"/>
   </div>
   
+  <h2> About me </h2>
+  
+  <p> My name Mateus, i'm naturaly from Parana, Brazil. I study software engineer in Uniguacu university, programing any languages, any one for front-end, python, Java and a initial scientist of data</p>
+  
   <div align="center">
   
   ![Snake animation](https://github.com/MateusFKrinski/MateusFKrinski/blob/output/github-contribution-grid-snake.svg)
