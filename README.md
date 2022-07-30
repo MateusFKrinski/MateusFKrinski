@@ -10,7 +10,7 @@
   
   <h2> About me </h2>
   
-  <p> My name Mateus, i'm naturaly from Parana, Brazil. I study software engineer in Uniguacu university, programing any languages, any one for front-end, python, Java and a initial scientist of data</p>
+  <p> My name's Mateus, I am from Parana, Brazil. I study software engineering at Uniguacu University, I program some languages, such as front-end, python, Java and beginner in data processing. I'm a great enthusiast of acquiring nwe knowledge.</p>
   
   <div align="center">
   
